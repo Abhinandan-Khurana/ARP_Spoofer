@@ -24,7 +24,7 @@ This is a Python based command line ARP Spoofer utility, which takes input as ar
 
 <hr>
 
-### NOTE: On your LINUX system before executing the ARP Spoofer, you need to enable PORT forwarding. (Also you need to install scapy module on your system)
+### NOTE: On your LINUX system before executing the ARP Spoofer, you need to enable PORT FORWARDING. (Also you need to install scapy module on your system)
 ### USE THIS COMMAND TO DO THAT -->
 
 
@@ -38,4 +38,5 @@ This is a Python based command line ARP Spoofer utility, which takes input as ar
 ## EXAMPLE COMMANDS -->
 
 <code> sudo python3 arp_spoofer.py -t 192.168.37.2 -g 192.168.37.0 </code>
+<br>
 <code> sudo python3 arp_spoofer.py --target-ip 192.168.37.2 --gateway-ip 192.168.37.0 </code>
