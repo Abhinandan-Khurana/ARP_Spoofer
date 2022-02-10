@@ -26,7 +26,7 @@ This is a Python based command line ARP Spoofer utility, which takes input as ar
 
 <hr>
 
-### NOTE: On your LINUX system before executing the ARP Spoofer, you need to enable PORT FORWARDING. (Also you need to install scapy module on your system)
+### NOTE: On your LINUX system before executing the ARP Spoofer, you need to enable PORT FORWARDING. (Also, you need to install scapy module on your system)
 ### USE THIS COMMAND TO DO THAT -->
 
 
